@@ -3,5 +3,5 @@ This repository contains my project on sales and finance analytics that I develo
 <br>
 <h2>Sales Report & Finance Report for AtliQ Hardware</h2>
 <h3>Sales Report :</h3>
-     <h3>• Project Objective:</h3>
+    • Project Objective:
 
