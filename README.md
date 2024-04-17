@@ -4,12 +4,12 @@ This repository contains my project on sales and finance analytics that I develo
 <h2 >Sales Report</h2>
 <ul>
   <li>Project Objective:
-    <ul>
-      <li>
-        1)Create a 
-      </li>
-</li>
+    <ol>
+      <li>Create a</li>
+    </ol>
+  </li>
 </ul>
+
 
 
 
