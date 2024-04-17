@@ -5,7 +5,7 @@ This repository contains my project on sales and finance analytics that I develo
 <ul>
   <li>Project Objective:
     <ol type ="1">
-     <li>Create a <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Customer_Performance_Report.pdf"></a></li>
+     <li>Create a <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Customer_Performance_Report.pdf">customer performance report</a></li>
     </ol>
   </li>
 </ul>
