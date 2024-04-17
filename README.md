@@ -1,9 +1,9 @@
 # AtliQ_Hardware_Analytics
 This repository contains my project on sales and finance analytics that I developed as part of an online course provided by Codebasics Excel Course. The project focuses on analyzing sales data and financial metrics to gain insights into business performance and trends.
 <br>
-<h2>Sales Report</h2>
-• Project Objective : <br>
-1. Create a 
+<h2 >Sales Report</h2>
+<p style="text-align: left;">• Project Objective</p>
+
 
 
 
