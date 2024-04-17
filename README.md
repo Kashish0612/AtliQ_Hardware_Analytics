@@ -3,10 +3,10 @@ This repository contains my project on sales and finance analytics that I develo
 <br>
 <h2 >Sales Report</h2>
 <ul>
-  <li>• Project Objective:
+  <li>Project Objective:
     <ul>
       <li>
-        1. Create a 
+        1)Create a 
       </li>
 </li>
 </ul>
