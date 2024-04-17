@@ -4,8 +4,8 @@ This repository contains my project on sales and finance analytics that I develo
 <h2 >Sales Report</h2>
 <ul>
   <li>Project Objective:
-    <ol>
-     <li><a href="">Create a</a></li>
+    <ol type ="1">
+     <li><a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Customer_Performance_Report.pdf">Create a</a></li>
     </ol>
   </li>
 </ul>
