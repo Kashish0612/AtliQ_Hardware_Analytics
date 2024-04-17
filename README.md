@@ -3,6 +3,7 @@ This repository contains my project on sales and finance analytics that I develo
 <br>
 <h2>Sales Report</h2>
 • Project Objective :
+1. Create a 
 
 
 
