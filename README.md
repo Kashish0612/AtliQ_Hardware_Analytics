@@ -64,6 +64,15 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
 </ul>
 <br>
 <h3>Technical Skills:</h3>
+<ul type="square">
+  <li>ETLmethadology expertise: Efficient data extraction, transformation, and loading.</li>
+  <li>Date table creation with Power Query: Establishing comprehensive date references.</li>
+  <li>Fiscal month and quarter identification: Determining financial reporting periods.</li>
+  <li>Data model setup with Power Pivot: Structuring data relationships.</li>
+  <li>Adding extra data to models: Incorporating supplementary information.</li>
+  <li>Calculated column creation using DAX: Developing custom metrics and calculations.</li>
+</ul>
+
 
 
 
