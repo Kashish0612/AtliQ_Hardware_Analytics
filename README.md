@@ -7,7 +7,8 @@ The Sales Director understands that merely gathering Excel files from various re
 <br>
 <h2>My Goal as a Data Analyst </h2>
 As a Data Analyst, my role involves analyzing and structuring a comprehensive dataset of over half a million sales records. I aim to derive actionable insights to support AtliQ Hardware in informed decision-making and tracking of key performance indicators (KPIs). My focus is on enhancing the company's performance metrics, particularly in increasing net sales and improving net gross margin.
-
+<br>
+<h3>Sales Report</h3>
 
 
 
