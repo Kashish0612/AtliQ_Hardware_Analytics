@@ -72,6 +72,14 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
   <li>Adding extra data to models: Incorporating supplementary information.</li>
   <li>Calculated column creation using DAX: Developing custom metrics and calculations.</li>
 </ul>
+<br>
+<h3>Soft Skills</h3>
+<ul type = "sqaure">
+  <li>Data-Driven Sales & Finance Analysis: Comprehensive expertise in analyzing pivotal metrics to derive actionable insights.</li>
+  <li>User-Centric Report Design: Crafting intuitive reports tailored to meet specific user requirements, enhancing usability and clarity.</li>
+  <li>Efficient Report Generation: Leveraging advanced techniques to optimize report accuracy and streamline production processes.</li>
+  <li>Strategic Report Planning: Implementing structured methodologies to ensure systematic and effective report development, aligning with organizational objectives.</li>
+</ul>
 
 
 
