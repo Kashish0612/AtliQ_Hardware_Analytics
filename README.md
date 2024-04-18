@@ -35,7 +35,7 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
   </li>
 </ul>
 <br>
-<h3><Finance Report</h3>
+<h3>Finace Report</h3>
 
 
 
