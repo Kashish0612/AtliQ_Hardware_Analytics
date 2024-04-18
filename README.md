@@ -22,8 +22,18 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
   <li><strong> Purpose of sales analytics:</strong> 
     Assess financial performance, inform decision-making, and communicate with stakeholders.</li>
 </ul>
-
-
+<ul>
+  <li>
+    <strong>Importance of analyzing sales data:</strong>
+    Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+ </li>
+</ul>
+<ul>
+  <li>
+    <strong>Role of reports:</strong>
+    Informs pricing strategies, streamlines negotiations, and pinpoints growth opportunities in key markets.
+  </li>
+</ul>
 
 
 
