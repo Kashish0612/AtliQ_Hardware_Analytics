@@ -4,7 +4,9 @@ This repository contains my project on sales and finance analytics that I develo
 <h1>Project objective- </h1>
 AtliQ Hardware, a top hardware company specializing in PCs, Printers, Mouse, and Computers worldwide, needs to boost sales and improve net gross margins and Profits.
 The Sales Director understands that merely gathering Excel files from various regional managers is insufficient due to the volume and potential lack of clear insights. Therefore, the objective is to leverage a Data Analyst to extract valuable insights and improve decision-making.
-
+<br>
+<h1>My Goal as a Data Analyst </h1>
+As a Data Analyst, my role involves analyzing and structuring a comprehensive dataset of over half a million sales records. I aim to derive actionable insights to support AtliQ Hardware in informed decision-making and tracking of key performance indicators (KPIs). My focus is on enhancing the company's performance metrics, particularly in increasing net sales and improving net gross margin.
 
 
 
