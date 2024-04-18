@@ -34,6 +34,8 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
     Informs pricing strategies, streamlines negotiations, and pinpoints growth opportunities in key markets.
   </li>
 </ul>
+<br>
+<h3><Finance Report</h3>
 
 
 
