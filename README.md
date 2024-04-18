@@ -13,7 +13,9 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
   <li>
     Project objective:
     <ol type ="1">
-   <li>Create a <a href="https://example.com/create-a">Link to Create A</a></li>
+   <li>Create a <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Customer_Performance_Report.pdf">customer performance report</a></li>
+  <li> Conduct a comparison between <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf">market performance and target sales</a></li>
+  
     </ol>
   </li>
 </ul>
