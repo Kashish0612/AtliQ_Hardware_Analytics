@@ -62,6 +62,9 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
      Aligns financial planning with strategic objectives and boosts organizational financial confidence.
   </li>
 </ul>
+<br>
+<h3>Technical Skills:</h3>
+
 
 
 
