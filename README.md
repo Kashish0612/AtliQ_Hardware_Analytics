@@ -11,7 +11,7 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
 <h3>Sales Report</h3>
 <ul>
   <li>
-    Project objective:
+   <strong> Project objective:</strong>
     <ol type ="1">
    <li>Create a <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Customer_Performance_Report.pdf">customer performance report</a></li>
   <li> Conduct a comparison between <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf">market performance and target sales</a></li>
@@ -19,7 +19,8 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
   </li>
 </ul>
 <ul>
-  <li><strong> Purpose of sales analytics:</strong>Assess financial performance, inform decision-making, and communicate with stakeholders.</li>
+  <li><strong> Purpose of sales analytics:</strong> 
+    Assess financial performance, inform decision-making, and communicate with stakeholders.</li>
 </ul>
 
 
