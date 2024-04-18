@@ -35,7 +35,33 @@ As a Data Analyst, my role involves analyzing and structuring a comprehensive da
   </li>
 </ul>
 <br>
-<h3>Finace Report</h3>
+<h3>Finance Report</h3>
+<ul>
+  <li>
+   <strong> Project objective:</strong>
+    <ol type ="1">
+   <li>Create a Profit & Loss(P&L) by <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf">Fiscal Yeart</a> & 
+     <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/P%26L%20Statment%20by%20Months.pdf">Months</li>
+  <li> Conduct a comparison between <a href="https://github.com/Kashish0612/AtliQ_Hardware_Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf">market performance and target sales</a></li>
+ </ol>
+  </li>
+</ul>
+<ul>
+  <li><strong> Purpose of sales analytics:</strong> 
+    Assess financial performance, inform decision-making, and communicate with stakeholders.</li>
+</ul>
+<ul>
+  <li>
+    <strong>Importance of analyzing sales data:</strong>
+    Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+ </li>
+</ul>
+<ul>
+  <li>
+    <strong>Role of reports:</strong>
+    Informs pricing strategies, streamlines negotiations, and pinpoints growth opportunities in key markets.
+  </li>
+</ul>
 
 
 
